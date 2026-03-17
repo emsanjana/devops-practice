@@ -1,0 +1,17 @@
+1. Navigated the Linux filesystem using cd, ls, pwd, and tree
+
+2. Created, renamed, deleted, and copied files and directories using touch, mkdir, mv, rm, and cp
+
+3. Viewed file contents using cat, less, more, head, and tail
+
+4. Managed file permissions using chmod and understood ownership concepts with chown and ls -l
+
+5. Monitored processes using ps, top, and htop
+
+6. Checked system resources using df, du, and free
+
+7. Wrote basic Bash scripts (hello.sh, sample_script.sh, automate.sh)
+
+8. Wrote a simple bash script that creates a directory and a file, moves the file into the directory and logs the action into the logfile.
+
+9. Set up version control using Git and pushed code to GitHub with SSH authentication
